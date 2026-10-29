@@ -1,0 +1,1 @@
+Includes the 3D bottom mounted case, the star shaped encoder knob, Vial fiwmare, and plate drawings for SquashKB's yeehaw keyboard.

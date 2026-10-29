@@ -1,0 +1,1 @@
+Plates and case step files for SquashKB's willy aluminum keyboard.
